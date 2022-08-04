@@ -1,0 +1,9 @@
+.nav img {
+    height: 200px;
+    width: 1365px;
+    cursor: pointer;
+}
+.box1 {
+    position: relative; left: 400px; top: -200px;
+    margin-right: 1000px;
+}
